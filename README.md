@@ -44,12 +44,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maureenmiranda&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UrekMaz&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maureenmiranda&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UrekMaz&theme=radical" />
 </p>
+
 
 ---
 
