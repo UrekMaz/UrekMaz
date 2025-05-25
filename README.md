@@ -55,7 +55,7 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: your.email@example.com
+- 📩 Email: dcmaureenmiranda@gmail.com
 - 🌐 Portfolio: [port-frontend-kappa.vercel.app](https://port-frontend-kappa.vercel.app/)
 - 🧠 LeetCode: [leetcode.com/u/RETURNOFTHEMETEORITE](https://leetcode.com/u/RETURNOFTHEMETEORITE/)
 
